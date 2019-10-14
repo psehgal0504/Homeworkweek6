@@ -7,4 +7,4 @@ wget https://www.bioinform.io/site/wp-content/uploads/2018/09/gene_dist_head.tsv
 ```
 unzip gene_dist_head.tsv.gz
 ```
-The html file can be viewed here [Homework week 6] (file:///Users/xulab/Homeworkweek6/Homeworkweek6.html)
+The html file can be viewed here [Homework week 6] (http://rpubs.com/psehgal0504/538814)
