@@ -4,7 +4,7 @@
 ```
 wget https://www.bioinform.io/site/wp-content/uploads/2018/09/gene_dist_head.tsv.gz
 ```
-- Don't forget to unzip it.
+> Don't forget to unzip it.
 ```
 unzip gene_dist_head.tsv.gz
 ```
