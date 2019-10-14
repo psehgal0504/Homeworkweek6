@@ -1,5 +1,6 @@
 # Homeworkweek6
 ## Get data within R notebook
+> Carry out the steps in your home directory
 ```
 wget https://www.bioinform.io/site/wp-content/uploads/2018/09/gene_dist_head.tsv.gz
 ```
